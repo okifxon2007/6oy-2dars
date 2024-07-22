@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cardpage{
+    width: 320px;
+    height: 550px;
+    border: 1px solid rgb(1, 43, 46);
+    box-shadow: -5px 5px 5px 5px  rgb(1, 43, 46);
+    border-radius: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 15px;
+    color: rgb(1, 43, 46);
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.cardpage img{
+    margin-top: 25px;
+    width: 290px;
+    border-radius: 10px;
+    height: 270px;
+}
